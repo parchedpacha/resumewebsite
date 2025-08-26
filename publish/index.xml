@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Kyle Magness</title>
+    <link>https://www.hopefuloverlook.casa/</link>
+    <description>Recent content in Homepage on Kyle Magness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jun 2025 17:00:00 -0500</lastBuildDate>
+    <atom:link href="https://www.hopefuloverlook.casa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High Power Certification Flight Success!</title>
+      <link>https://www.hopefuloverlook.casa/articles/high-power-rocketry-certification-flight/</link>
+      <pubDate>Fri, 06 Jun 2025 17:00:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/high-power-rocketry-certification-flight/</guid>
+      <description>On May 31st I launched my &amp;ldquo;Fanton 438 (EXL)&amp;rdquo; kit, rebuilt from last time and named Minuteman II. This was my second attempt at completing my Tripoli Rocketry Level 1 certification, my first attempt was not successful. Unfortunately, 2 seconds into flight it suffered a Rapid, Unscheduled, Disassembly. Root cause analysis was performed using high speed footage. The footage showed the motor deployed the rocket&amp;rsquo;s parachute far too early. Needless to say this was a bad outcome, and one that is difficult to prevent as the motor was a commercial, off-the-shelf variety.</description>
+    </item>
+    <item>
+      <title>High Power Launch April 2025</title>
+      <link>https://www.hopefuloverlook.casa/articles/high-power-rocketry-april-2025/</link>
+      <pubDate>Sat, 12 Apr 2025 17:00:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/high-power-rocketry-april-2025/</guid>
+      <description>On April 12th I launched my &amp;ldquo;Fanton 438 (EXL)&amp;rdquo; kit. This is a 64 inch tall, 4 inch diameter rocket. Here is the video, with a breakdown below:&#xA;Your browser does not support the video tag. Why did the rocket fail? Looking at the video closely, you can see that the rocket deployed the main chhute on the way up, leading to a complete separation of the upper and lower stage.</description>
+    </item>
+    <item>
+      <title>FIRST Robotics 2025</title>
+      <link>https://www.hopefuloverlook.casa/articles/first-robotics-2025/</link>
+      <pubDate>Sun, 16 Mar 2025 17:00:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/first-robotics-2025/</guid>
+      <description>For the past 10 weeks I have mentored FIRST Robotics Team 6566 &amp;ldquo;Battering Rams&amp;rdquo; out of Lamphere High School in Madison Heights, MI.&#xA;FIRST is an after school program that uses robots to teach STEM topics to high school students, and prepare them for work in a team based environment. Engineering concepts like gear ratios, power/energy/velocity/acceleration relationships, torque, Object Oriented Programming, systems engineering 3d modeling, and most importantly: Teamwork!&#xA;Just yesterday the team made it to 2nd place in the district championship held in Belleville, MI.</description>
+    </item>
+    <item>
+      <title>Ham Radio Repair &amp; Upgrade</title>
+      <link>https://www.hopefuloverlook.casa/articles/radio_repair/</link>
+      <pubDate>Thu, 30 Jan 2025 18:30:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/radio_repair/</guid>
+      <description>This is the humble TM-732A, a Kenwood brand Ham Radio, with both UHF and VHF capabilities. Originally, it came with orange incandescent bulbs. These bulbs were attached to a dimmer circuit that used a transistor. It used 4 lights in 2 pairs, each pair with a 10 Ohm resistor in series.&#xA;Bulbs Dimmer I chose to replace these bulbs, as they had burnt out, with sick red LEDs, to give the radio a more cyberpunk / professional appearance.</description>
+    </item>
+    <item>
+      <title>Most of the cool stuff I&#39;ve Done</title>
+      <link>https://www.hopefuloverlook.casa/articles/cool-stuff/</link>
+      <pubDate>Thu, 24 Aug 2023 18:30:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/cool-stuff/</guid>
+      <description>So in no particular order, here are some of the things that I&amp;rsquo;ve done that I think are worth mentioning.&#xA;Ran a First Robotics Team and got to the World Championships One of my most proud accomplishments is getting to the world championships, and I can&amp;rsquo;t thank the wonderful mentors that joined me enough! Every success and failure was shared and being here at this time and place has truly been a blessing.</description>
+    </item>
+    <item>
+      <title>Landing Prediction App</title>
+      <link>https://www.hopefuloverlook.casa/articles/app/</link>
+      <pubDate>Sun, 30 Apr 2023 18:30:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/app/</guid>
+      <description>This app is designed to solve a particular problem I have discovered in my amateur rocketry setup: The code I use to decode telemetry from my rocket data only runs on a laptop, as its writtin in MATLAB. While I&amp;rsquo;m out in the desert I want to be carrying as little weight as possible, a 200g phone is much easier than a multiple kg laptop.&#xA;This code also benefits from sensors in the phone, namely positioning and altitude.</description>
+    </item>
+    <item>
+      <title>First Robotics 2023</title>
+      <link>https://www.hopefuloverlook.casa/articles/first-robotics/</link>
+      <pubDate>Thu, 20 Apr 2023 18:30:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/first-robotics/</guid>
+      <description>For the last two years, I have been a mentor for First Robotics Team 5901. This year, we advanced far enough to get to the Michigan State Championship as well as the World Championship in Houston, TX. We had a hectic time organizing it last minute but I wouldn&amp;rsquo;t trade that time for anything. My team performed at their peak, placing well above expectations and predictions. Watching my students put all of their mechanical work, practice, and skill into every match was great to see.</description>
+    </item>
+    <item>
+      <title>Looking Glass Tips</title>
+      <link>https://www.hopefuloverlook.casa/articles/looking-glass/</link>
+      <pubDate>Tue, 08 Nov 2022 20:00:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/looking-glass/</guid>
+      <description>Looking glass can be really difficult to setup correctly, so heres some tips&#xA;IVSHEM Device Make sure to disable secure boot in the VM&amp;rsquo;s BIOS/UEFI. You can enter the bios by using Windows 10&amp;rsquo;s secure boot options entry in the start menu, then navigating thru that until you find the UEFI settings&#xA;Scream This one should work out of the box, once you figure out where to download it and how to install it.</description>
+    </item>
+    <item>
+      <title>Kicad PCB Design</title>
+      <link>https://www.hopefuloverlook.casa/articles/kicad/</link>
+      <pubDate>Wed, 07 Sep 2022 17:00:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/kicad/</guid>
+      <description>My Apartment does not have in-unit laundry. So, when the laundry is done, I do not hear the laundry machine stop, and would often set timers to avoid my clothes becoming wrinkly. This doesn&amp;rsquo;t solve my issue though, sometimes the laundry machine takes less time than you expect due to the automatic cycle, which I prefer to use. This PCB is intended to fix that. it consists of:&#xA;An ESP8266 NodeMCU An MPU6050 Accelerometer connected via SPI This circuit board A strong magnet so I can easily attach and detach my gadget Two AA batteries, for cost effectiveness.</description>
+    </item>
+    <item>
+      <title>Ham Radio</title>
+      <link>https://www.hopefuloverlook.casa/articles/ham-radio/</link>
+      <pubDate>Wed, 06 Apr 2022 18:00:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/ham-radio/</guid>
+      <description>I found this nifty little code that shows you current local space weather.</description>
+    </item>
+    <item>
+      <title>High Power Rocketry</title>
+      <link>https://www.hopefuloverlook.casa/articles/high-power-rocketry/</link>
+      <pubDate>Thu, 31 Mar 2022 18:57:13 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/high-power-rocketry/</guid>
+      <description>Back in college one of my extracurriculars was rocketry. You&amp;rsquo;d buy a kit, put it all together, drive out to the desert, launch it, and finally: recover it. For me, that last part was the toughest. Here&amp;rsquo;s an image of the area that I launched rockets in:&#xA;The geography was very homogenous, landmarks spaced far apart, easy to get lost in. My rocket didn&amp;rsquo;t have any tracking equipment besides the two eyes in my head and that wasn&amp;rsquo;t enough.</description>
+    </item>
+    <item>
+      <title>Drone Mapping Project</title>
+      <link>https://www.hopefuloverlook.casa/articles/drone-mapping/</link>
+      <pubDate>Wed, 30 Mar 2022 18:30:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/drone-mapping/</guid>
+      <description>This RC plane is designed to fly over an area with a gopro or similar camera and map areas. Its part of my strategy to not lose rockets I have launched in the desert. It will have a wingspan of about 4 ft 11 in. I&amp;rsquo;m trying to make as much of it 3d printed as possible, so that I can have fun designing it as a side project, and so that I can share it with the world when its done.</description>
+    </item>
+    <item>
+      <title>Website creation</title>
+      <link>https://www.hopefuloverlook.casa/articles/website/</link>
+      <pubDate>Tue, 22 Mar 2022 12:00:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/website/</guid>
+      <description>I created this website to hold onto important things I&amp;rsquo;ve found on the internet, and to more generally carve out my own little spot. I hope you like it! On the bottom left are contact pages so you can get a hold of me if need be.&#xA;This website uses Hugo to generate the HTML because I dont want to do it myself, and it uses a theme called &amp;ldquo;Digital Garden&amp;rdquo; to make it look nice, expecially for phones.</description>
+    </item>
+    <item>
+      <title>Ghost Image Display</title>
+      <link>https://www.hopefuloverlook.casa/articles/ghost-image-display/</link>
+      <pubDate>Sat, 19 Mar 2022 16:34:00 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/ghost-image-display/</guid>
+      <description>&#xD;This display uses a string of LEDs (WS2812b, if you want to buy some on amazon), connected to an arduino and SD card. The arduino reads images from the SD card, and displays them one column at a time to make this ghostly display. Any image sized corectly will do!&#xA;Here is a couple more pictures of this display!&#xA;and here is another one, with (in)famous frog, Pepe. </description>
+    </item>
+    <item>
+      <title>Inav Telemetry Fix</title>
+      <link>https://www.hopefuloverlook.casa/articles/inav-telemetry-fix/</link>
+      <pubDate>Sun, 27 Feb 2022 21:57:13 -0500</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/inav-telemetry-fix/</guid>
+      <description>I&amp;rsquo;ve Been running Matek boards on my quadcopter for quite some time due to their nice build quality and associated PDB. However I was never able to get their telemetry working via softserial. I recently got the Matek F411 Wing board for a drone project and attempted to get this fixed. After hours and hours of banging my head against the wall and trying to get my boards to output that sweet sweet data, I found the one thing I needed to do all along: Screw around with half duplex.</description>
+    </item>
+    <item>
+      <title>3D Printed RC Plane</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/sub_articles/3d_printed_plane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/sub_articles/3d_printed_plane/</guid>
+      <description> This project is to help me get more familiar with 3d printing at an advanced level. Challenges included:&#xA;Weight/Strength optimization size contstraints fastening methods usability of final product maintenance/reloading (e.g. Battery swaps) </description>
+    </item>
+    <item>
+      <title>Arduino Uno box (including finished product)</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/sub_articles/telemetry_box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/sub_articles/telemetry_box/</guid>
+      <description>I made this to contain the electronics for my Kit Rocket&amp;rsquo;s Telemetry. I custom designed it in order to add in an antenna hole, and as an exercise in design.</description>
+    </item>
+    <item>
+      <title>Capstone Tank  Design Project</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/sub_articles/capstone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/sub_articles/capstone/</guid>
+      <description>At Oregon state University there are several rocketry teams, I was part of the Hybrid Propellant Rocket Team, our goal was to build a hybrid propellant Rocket to reach the Karman Line. I was part of the propulsion team, and was the lead designer for our oxidizer tank.&#xA;We had to design a pressure vessel to meet several requirements:&#xA;maximize propellant volume (no hemispheric tanks or tank ends) have attachment points for several sensors at fittings, including: Temperature sensor Pressure Sensor Capacitance Sensor Filling port Drain port structural connections for motor tube struts emergency venting port radial rocket tube interfaces Mainly student manufacturable quick assembly and disassembly for cleaning and transport hold liquid Nitrous Oxide at its room temp vapor pressure at a factor of safety of at least 2 for yielding These requirements forced us to innovate.</description>
+    </item>
+    <item>
+      <title>Car USB C Charger addition</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/sub_articles/car_charger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/sub_articles/car_charger/</guid>
+      <description>As of June 2023, I drive a 2000 Mazda Protege LX. Unfortunately Mazda did not future proof this vehicle by adding USB C ports to it so I can charge my phone. I have instead used car cigarette port chargers to keep my phone topped off. These have several problems though:&#xA;Unreliable connection Many times my charger has come unplugged and not charged my phone while I was driving, which is very annoying.</description>
+    </item>
+    <item>
+      <title>Kit Rocket Assembly</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/sub_articles/kit_rocket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/sub_articles/kit_rocket/</guid>
+      <description>Short version: I modeled this assembly in order to test fit a battery retainer that I had a friend 3D print.&#xA;This assembly models the electronics bay of my kit rocket, and is used in conjunction with my arduino uno telemetry receiver, and my MATLAB telemetry script, in order to for a fully functional rocket tracking and landing site prediction suite. I used this system May 31st 2025 to launch and recover intact my level 1 certification rocket as part of the Tripoli Rocketry association.</description>
+    </item>
+    <item>
+      <title>Matlab Portfolio</title>
+      <link>https://www.hopefuloverlook.casa/matlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/matlab/</guid>
+      <description>Projects Coronavirus database reader and plotter I made a collection of scripts and functions that analyzes the New York Times&amp;rsquo; Nationwide Coronavirus casecount database.&#xA;The first image shows a 14 day rolling average of newly reported cases. Swipe to either side or use the buttons to see the other picture. The second image shows overall reported cases, NOT just active cases.&#xA;The database, available here, contains an entry (within us-counties.csv) for each count with a number of cases reported for that day.</description>
+    </item>
+    <item>
+      <title>Pelican Battery Backup Box</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/sub_articles/pelican_battery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/sub_articles/pelican_battery/</guid>
+      <description>This Battery box was created in response to 2024 hurricanes, Milton and Helene. I designed this battery box to be capable of holding a useful amount of energy while also not compromising the original waterproof seal of the container. These lead to the following design constraints:&#xA;No fasteners through the plastic case. Shall accept power from at least solar and A/C sources Shall be able to power multiple phones or other devices at once Shall have a user readable display indicating the amount of energy in the battery Should use a predominantly 3d printed structure to ease prototyping, and be printable on a hobbyist printer These constraints lead to this design:</description>
+    </item>
+    <item>
+      <title>Rocket Stabilization System</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/sub_articles/arduino_stab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/sub_articles/arduino_stab/</guid>
+      <description> Your browser does not support the video tag. This assembly shows all the components required for a simple pitch and yaw stablization system, based on an Atmel 328p running an arduino firmware. It also consists of:&#xA;a 2S LiPo battery for compact, lightweight power. A 5v voltage regulator an MPU6050 gyroscope/accelerometer combo 2 small servos linkage system </description>
+    </item>
+    <item>
+      <title>Solidworks</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/solidworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/solidworks/</guid>
+      <description>Pelican Battery Backup Box This Battery box was created in response to 2024 hurricanes, Milton and Helene. I designed this battery box to be capable of holding a useful amount of energy while also not compromising the original waterproof seal of the container. These lead to the following design constraints:&#xA;No fasteners through the plastic case. Shall accept power from at least solar and A/C sources Shall be able to power multiple phones or other devices at once Shall have a user readable display indicating the amount of energy in the battery Should use a predominantly 3d printed structure to ease prototyping, and be printable on a hobbyist printer These constraints lead to this design:</description>
+    </item>
+    <item>
+      <title>SolidWorks Portfolio</title>
+      <link>https://www.hopefuloverlook.casa/solidworks/solidworks_index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/solidworks/solidworks_index/</guid>
+      <description>Pelican Battery Backup Box Car USB C Charger addition Capstone Tank Design Project Kit Rocket Assembly Arduino Uno box (including finished product) Rocket Stabilization System Your browser does not support the video tag. 3D Printed RC Plane </description>
+    </item>
+    <item>
+      <title>using new disks for LVM tutorial</title>
+      <link>https://www.hopefuloverlook.casa/articles/using-new-disks-for-lvm-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/using-new-disks-for-lvm-tutorial/</guid>
+      <description>use lsblk to identify disks to use.&#xA;on a blank disk, use&#xA;sudo pvcreate /dev/&amp;lt;diskdevicename&amp;gt; If you get this error:&#xA;Cannot use /dev/&amp;lt;diskdevicename&amp;gt;: device is partitioned Use this line to completeley wipe the disk:&#xA;sudo wipefs --all --backup /dev/&amp;lt;diskdevicename&amp;gt; use sudo pvs to see your volume groups and disks associated with them.&#xA;use&#xA;sudo vgextend /dev/&amp;lt;volumegroupname&amp;gt;/&amp;lt;logicalvolumename&amp;gt; /dev/&amp;lt;diskdevicename&amp;gt; to add your new disk to your existing volume group. I ticked the box during OS installation to use LVM, so I already have a volume group.</description>
+    </item>
+  </channel>
+</rss>
