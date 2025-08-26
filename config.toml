@@ -1,0 +1,56 @@
+baseURL = 'https://www.hopefuloverlook.casa'
+languageCode = 'en-us'
+title = 'Kyle Magness'
+theme = 'digitalgarden'
+googleAnalytics = "G-3KFQ4RKMNS"
+publishDir = '/home/kyle/Nextcloud/Documents/Code/Hugo/ML/publish'
+staticDir = ['static']
+[Params]
+  description = "Personal Website of Kyle Magness"
+  
+[outputs]
+section = ["HTML"]
+page = ["HTML"]
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 2
+[[menu.main]]
+  name = 'Matlab Portfolio'
+  url = '/Matlab'
+  weight = 3
+[[menu.main]]
+  name = 'SolidWorks Portfolio'
+  url = '/solidworks/solidworks_index'
+  weight = 3
+[[menu.main]]
+  name = 'Stack'
+  url = '/stack'
+  weight = 4
+# [[menu.main]]
+  # name = 'Polywork'
+  # url = 'https://polywork.com'
+  # weight = 5
+
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://www.linkedin.com/in/kyle-magness-engineer'
+  weight = 1
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:kylemagness123@gmail.com'
+  weight = 2
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true

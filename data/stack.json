@@ -1,0 +1,37 @@
+[
+  {
+    "name": "MobaXterm",
+    "description": "A great terminal or SSH/SFTP/FTP/RDP client, highly recommended",
+    "link": "https://mobaxterm.mobatek.net/",
+    "icon": "https://hopefuloverlook.casa/stack/images/mobaxterm.jpg",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Cloudflare",
+    "description": "Place for all my domains on the internet",
+    "link": "https://cloudflare.com",
+    "icon": "https://hopefuloverlook.casa/stack/images/cloudflare.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "GitHub",
+    "description": "Code hosting for all projects",
+    "link": "https://github.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "SolidWorks",
+    "description": "Probably the best 3d modeling program out there",
+    "link": "https://www.solidworks.com/",
+    "icon": "https://hopefuloverlook.casa/stack/images/solidworks.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Figma",
+    "description": "Design tool for all design artifacts and social media handles",
+    "link": "https://www.figma.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+    "tag": "Graphic Design"
+  }
+]
