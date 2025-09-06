@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Kyle Magness'
 theme = 'digitalgarden'
 googleAnalytics = "G-3KFQ4RKMNS"
-publishDir = '/home/kyle/Nextcloud/Documents/Code/Hugo/ML/publish'
+publishDir = './publish'
 staticDir = ['static']
 [Params]
   description = "Personal Website of Kyle Magness"
