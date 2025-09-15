@@ -18,25 +18,26 @@ page = ["HTML"]
   url = '/'
   weight = 1
 [[menu.main]]
+  name = 'Resume'
+  url = '/resume/resume.pdf'
+  weight = 2
+[[menu.main]]
   name = 'Articles'
   url = '/articles'
-  weight = 2
+  weight = 3
 [[menu.main]]
   name = 'Matlab Portfolio'
   url = '/Matlab'
-  weight = 3
+  weight = 4
 [[menu.main]]
   name = 'SolidWorks Portfolio'
   url = '/solidworks/solidworks_index'
-  weight = 3
+  weight = 5
 [[menu.main]]
   name = 'Stack'
   url = '/stack'
-  weight = 4
-[[menu.main]]
-  name = 'Resume'
-  url = '/resume/resume.pdf'
-  weight = 5
+  weight = 6
+
 
 [[menu.social]]
   name = 'LinkedIn'
