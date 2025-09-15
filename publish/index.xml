@@ -6,8 +6,15 @@
     <description>Recent content in Homepage on Kyle Magness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 17:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.hopefuloverlook.casa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plans for new wireless setup</title>
+      <link>https://www.hopefuloverlook.casa/articles/new-wireless-setup/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.hopefuloverlook.casa/articles/new-wireless-setup/</guid>
+      <description>I plan to use this guide and this youtube video to put together a long range wireless network for use in low cell service areas, as my new home will be somewhat far away from good service, accessible only via starlink internet. I&amp;rsquo;ll update this page when I get time to investigate this further.</description>
+    </item>
     <item>
       <title>High Power Certification Flight Success!</title>
       <link>https://www.hopefuloverlook.casa/articles/high-power-rocketry-certification-flight/</link>
