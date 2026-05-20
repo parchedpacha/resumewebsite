@@ -429,7 +429,7 @@ sudo vgextend /dev/&lt;volumegroupname&gt;/&lt;logicalvolumename&gt; /dev/&lt;di
 <p>During this time, I was tracking the rocket with my custom built Telemetry stack, and I was able to track the rocket during the full flight, including the boost phase, although the location data isnt necessarily trustworthy at that time, due to unavoidable GPS inaccuracy as a result of ITAR restrictions. Commercially available GPS units are speed limited. I used a hobby grade GPS unit outputting NMEA data at 1hz, an Arduino Nano to collect that datastream and boil it down to only the necessary data (plus battery voltage), and an HC12 transmitter operating on the 70cm wavelength amateur radio band. On thereceiving end I have a 6 element Yagi antenna, connected to a custom HC12 hat for the Arduino Nano, which is then connected to my android phone using OTG mode to power the Arduino off my phone directly. Once the data is on my phone, a custom android app I developed reads this data to the screeen, as well as extrapolates a landing location.</p>
 <p>Once the flight was over and the rocket landed safely, I was able to continue communicating with the rocket, and the rocket accurately reported its position even while the GPS was face down. the 70cm band is excellent at transmitting through small brush and plants. This allowed me to walk directly up to my rocket while getting consistent second by second pings.</p>
 <p><img src="/articles/images/16MAY26_Launch/pre_launch_with_rocket.JPG" alt="Level 2 Cert flight plot"></p>
-<h1 id="lesson-learned">Lesson Learned:</h1>
+<h2 id="lessons-learned">Lessons Learned:</h2>
 <ol>
 <li>
 <p>Parachute packing is worth getting an extra pair of eyes to look at. Z folding is a great choice but cannot help if deployment charge / parachute orientation is incorrect. Set your rocket up sort of like a cannon: Shoot the parachute out of the airframe with the charge.</p>
@@ -438,7 +438,7 @@ sudo vgextend /dev/&lt;volumegroupname&gt;/&lt;logicalvolumename&gt; /dev/&lt;di
 <p>Use ematches for your parachute charges, and build/test these well in advance, at least a couple weeks for testing. it is not fun trying to rebuild charges in the windy desert. Use good quality <strong>LOW CURRENT</strong> igniters. They use less energy, and have a far reduced chance of causing brownout conditions in any electronics that share a power source.</p>
 </li>
 </ol>
-<h1 id="important-issues-avoided">Important issues avoided:</h1>
+<h2 id="important-issues-avoided">Important issues avoided:</h2>
 <ol>
 <li>
 <p>Make sure you test your telemetry setup extensively. Use 433mhz/70cm band if you can. Use a Yagi antenna if you can, or a helical antenna with many turns. I tested my setup at 800 meters on the ground and found good success at 3800 ft altitude AGL. <strong>DO NOT</strong> rely on dipole antenna for recovery. They have poor range, and cannot be used for direction finding once your rocket has landed. If your rocket is outputting B.S. location coordinates, a YAGI/Helical can help you find which direction you should be walking, at least. Look into Featherweight brand trackers. Have redundancy! Don&rsquo;t be that guy wandering in the desert with a single antenna just hoping he will stumble upon his rocket. a Directional antenna is a <strong>MUST HAVE</strong>. Make sure its tuned well if you made it yourself. In fact, do that anyway. A NanoVNA will serve you well here.</p>

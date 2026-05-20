@@ -18,13 +18,13 @@ Once the flight was over and the rocket landed safely, I was able to continue co
 
 ![Level 2 Cert flight plot](/articles/images/16MAY26_Launch/pre_launch_with_rocket.JPG)
 
-# Lesson Learned:
+## Lessons Learned:
 
 1. Parachute packing is worth getting an extra pair of eyes to look at. Z folding is a great choice but cannot help if deployment charge / parachute orientation is incorrect. Set your rocket up sort of like a cannon: Shoot the parachute out of the airframe with the charge.
 
 2. Use ematches for your parachute charges, and build/test these well in advance, at least a couple weeks for testing. it is not fun trying to rebuild charges in the windy desert. Use good quality **LOW CURRENT** igniters. They use less energy, and have a far reduced chance of causing brownout conditions in any electronics that share a power source.
 
-# Important issues avoided:
+## Important issues avoided:
 
 1. Make sure you test your telemetry setup extensively. Use 433mhz/70cm band if you can. Use a Yagi antenna if you can, or a helical antenna with many turns. I tested my setup at 800 meters on the ground and found good success at 3800 ft altitude AGL. **DO NOT** rely on dipole antenna for recovery. They have poor range, and cannot be used for direction finding once your rocket has landed. If your rocket is outputting B.S. location coordinates, a YAGI/Helical can help you find which direction you should be walking, at least. Look into Featherweight brand trackers. Have redundancy! Don't be that guy wandering in the desert with a single antenna just hoping he will stumble upon his rocket. a Directional antenna is a **MUST HAVE**. Make sure its tuned well if you made it yourself. In fact, do that anyway. A NanoVNA will serve you well here.
 
