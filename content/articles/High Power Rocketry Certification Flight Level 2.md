@@ -5,7 +5,7 @@ date: 2026-05-18T17:00:00-05:00
 
 ![Level 2 Cert flight plot](/articles/images/16MAY26_Launch/just_before_launch_setup.JPG)
 
-Oregon Rocketry Holds meeting roughly every month for rocketeers to hone their craft. in May, the club hosts their premiere spring event: **Spring Thunder.** I attended and flew my kit rocket, *Minuteman II* using an Aerotech J350 motor, using a reusable motor system. My altimeter, a Stratologger SL100 powered by a custom fabricated 2S Lithium Ion battery, reported an apogee altitude of 3832 feet AGL.
+Oregon Rocketry holds meetings roughly every month for rocketeers to hone their craft. In May, the club hosts their premiere spring event: **Spring Thunder.** I attended and flew my kit rocket, *Minuteman II* using an Aerotech J350 motor, within a reusable motor system. My altimeter, a Stratologger SL100 powered by a custom fabricated 2S Lithium Ion battery, reported an apogee altitude of 3832 feet AGL. Recovery was nominal, with both parachutes deploying as programmed. 
 
 ![Level 2 Cert flight plot](/articles/images/16MAY26_Launch/L2_cert_alt_plot.png)
 
